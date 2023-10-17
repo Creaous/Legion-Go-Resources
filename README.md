@@ -13,6 +13,10 @@ I'll be updating this section with the latest information on the Legion Go, as w
 - Try to buy the Legion Go on a sale or using a discount code.
 - Create a new Lenovo account to receive a 10% discount code.
 - Use tools to debloat Windows (see below for more information).
+- You should be able to use 2230 SSD with an 2242 adapter on.
+
+## Upgrading the SSD
+Ensure that the SSD that you purchase is a 2242, if not then you'll have to use an adapter from 2230 to 2242. The SSD must be NVMe and not a SATA one, it is suggested to make sure the SSD is PCIe 4.0.
 
 ## Documentation
 - [Lenovo PSREF](https://psref.lenovo.com/product/legion_go_8apu1)
