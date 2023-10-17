@@ -17,6 +17,7 @@ I'll be updating this section with the latest information on the Legion Go, as w
 ## Documentation
 - [Lenovo PSREF](https://psref.lenovo.com/product/legion_go_8apu1)
 - [Spec Sheet](https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_8APU1/Legion_Go_8APU1_Spec.pdf)
+- [BIOS README](https://download.lenovo.com/consumer/mobiles/n3cn22ww.txt)
 
 ## Debloat Tools
 ### Chris Titus Tech's Windows Utility
@@ -38,4 +39,5 @@ Feel free to open a pull request or issue with suggestions for me to add to this
 ## Sources
 - https://www.reddit.com/r/LegionGo
 - https://www.reddit.com/r/LegionGo/comments/175l8jr/user_guide_hardware_maintenance_manual_drivers
+- https://www.reddit.com/r/LegionGo/comments/178nqzb/i_found_a_readme_changelog_file_bios_for_legion_go
 - Official Lenovo Sites (https://lenovo.com)
