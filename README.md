@@ -7,8 +7,8 @@ A repository containing useful resources for the Lenovo Legion Go.
 - Use tools to debloat Windows (see below for more information).
 
 ## Documentation
-[Lenovo PSREF](https://psref.lenovo.com/product/legion_go_8apu1)
-[Spec Sheet](https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_8APU1/Legion_Go_8APU1_Spec.pdf)
+- [Lenovo PSREF](https://psref.lenovo.com/product/legion_go_8apu1)
+- [Spec Sheet](https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_8APU1/Legion_Go_8APU1_Spec.pdf)
 
 ## Debloat Tools
 ### Chris Titus Tech's Windows Utility
