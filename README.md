@@ -35,7 +35,7 @@ The CTT Debloat tool is very useful, it is also open source and the code can be 
 ### Minecraft Launcher
 Consider using Prism Launcher as it is open source, highly configurable, easy to download and install both mods and modpacks and way more.
 
-[Download](https://github.com/PrismLauncher/PrismLauncher)
+[Download](https://prismlauncher.org/download)
 
 ## Contributing
 Feel free to open a pull request or issue with suggestions for me to add to this repository.
