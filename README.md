@@ -1,6 +1,14 @@
 # Lenovo Legion Go Resources
 A repository containing useful resources for the Lenovo Legion Go.
 
+## Information
+I'll be updating this section with the latest information on the Legion Go, as well as any important notices I find. Once the information becomes outdated, it'll be moved to a seperate markdown file for archival purposes.
+
+### Latest
+- The embargo lift date is speculated to be the 24th of October according to a reviewer.
+- Australian and Singapore pre-orders have been opened up on the official Lenovo site.
+- The Z1 (non-extreme), 256gb model is now available on the Australian Lenovo site.
+
 ## Tips
 - Try to buy the Legion Go on a sale or using a discount code.
 - Create a new Lenovo account to receive a 10% discount code.
