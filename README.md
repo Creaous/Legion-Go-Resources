@@ -23,6 +23,15 @@ Ensure that the SSD that you purchase is a 2242, if not then you'll have to use 
 - [Spec Sheet](https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_8APU1/Legion_Go_8APU1_Spec.pdf)
 - [BIOS README](https://download.lenovo.com/consumer/mobiles/n3cn22ww.txt)
 
+## Videos
+| [![Lenovo Legion Go – Official Launch Trailer](https://img.youtube.com/vi/BLD-dg1C_XU/0.jpg)](https://www.youtube.com/watch?v=BLD-dg1C_XU "Lenovo Legion Go – Official Launch Trailer") | [![I tested it EARLY... (it's massive) - Lenovo Legion Go Hands-On Preview](https://img.youtube.com/vi/OO_WqQ4ZRTw/0.jpg)](https://www.youtube.com/watch?v=OO_WqQ4ZRTw "I tested it EARLY... (it's massive) - Lenovo Legion Go Hands-On Preview") | [![Lenovo Legion Go - OMG THIS IS SO COOL](https://img.youtube.com/vi/hql6doE-Ccw/0.jpg)](https://www.youtube.com/watch?v=hql6doE-Ccw "Lenovo Legion Go - OMG THIS IS SO COOL") |
+|--------------|------------|------------|
+| [Lenovo Legion Go – Official Launch Trailer](https://www.youtube.com/watch?v=BLD-dg1C_XU) | [I tested it EARLY... (it's massive) - Lenovo Legion Go Hands-On Preview](https://www.youtube.com/watch?v=OO_WqQ4ZRTw) | [Lenovo Legion Go - OMG THIS IS SO COOL](https://www.youtube.com/watch?v=hql6doE-Ccw) |
+
+| [![Grand Theft Auto V on Legion Go: Handheld Console Gameplay Experience #gaming #LenovoGO](https://img.youtube.com/vi/O1uihtpmLcI/0.jpg)](https://www.youtube.com/shorts/O1uihtpmLcI "Grand Theft Auto V on Legion Go: Handheld Console Gameplay Experience #gaming #LenovoGO") | [![First Look: Playing Marvel's Spider-Man Remastered on the Legion Go #gaming #LegionGO](https://img.youtube.com/vi/zewcqpzRHJs/0.jpg)](https://www.youtube.com/shorts/zewcqpzRHJs "First Look: Playing Marvel's Spider-Man Remastered on the Legion Go #gaming #LegionGO") | [![Handheld Powerhouse? Lenovo Legion Go Runs Latest AAA Games on High! #gaming #LegionGO](https://img.youtube.com/vi/wIDMtyOOSpI/0.jpg)](https://www.youtube.com/shorts/wIDMtyOOSpI "Handheld Powerhouse? Lenovo Legion Go Runs Latest AAA Games on High! #gaming #LegionGO") |
+|--------------|-----------|------------|
+| [Grand Theft Auto V on Legion Go: Handheld Console Gameplay Experience #gaming #LenovoGO](https://www.youtube.com/shorts/O1uihtpmLcI) | [First Look: Playing Marvel's Spider-Man Remastered on the Legion Go #gaming #LegionGO](https://www.youtube.com/shorts/zewcqpzRHJs) | [Handheld Powerhouse? Lenovo Legion Go Runs Latest AAA Games on High! #gaming #LegionGO](https://www.youtube.com/shorts/wIDMtyOOSpI) |
+
 ## Debloat Tools
 ### Chris Titus Tech's Windows Utility
 The CTT Debloat tool is very useful, it is also open source and the code can be found [here](https://github.com/ChrisTitusTech/winutil).
