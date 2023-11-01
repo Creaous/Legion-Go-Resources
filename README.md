@@ -7,3 +7,6 @@ A repository containing useful resources for the Lenovo Legion Go.
 - [Software/Tools](SOFTWARE.md)
 - [Videos](VIDEOS.md)
 - [Documentation](DOCUMENTATION.md)
+
+## Contributing
+Feel free to open a pull request or issue with suggestions for me to add to this repository.
