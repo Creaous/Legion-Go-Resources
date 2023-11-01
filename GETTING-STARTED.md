@@ -2,6 +2,9 @@
 # Getting Started
 So you just got your brand new Lenovo Legion Go. Here is a guide on what you should do to get the most out of your new device!
 
+## Need more internal storage?
+Read more about upgrading the internal SSD [here](GUIDES/UPGRADING-THE-SSD.md].
+
 ## Debloating
 While the Legion Go doesn't come with any bloatware (other than the McAfee option in the setup), Windows still has a ton of bloatware you might not want.
 
