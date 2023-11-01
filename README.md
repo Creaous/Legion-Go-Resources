@@ -4,6 +4,7 @@ A repository containing useful resources for the Lenovo Legion Go.
 
 ## Contents
 - [Getting Started](GETTING-STARTED.md)
+  - [Upgrading the SSD](GUIDES/UPGRADING-THE-SSD.md)
 - [Software/Tools](SOFTWARE.md)
 - [Videos](VIDEOS.md)
 - [Documentation](DOCUMENTATION.md)
