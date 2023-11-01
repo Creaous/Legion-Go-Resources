@@ -1,3 +1,4 @@
+#### THIS PAGE IS UNDER CONSTRUCTION
 # Getting Started
 So you just got your brand new Lenovo Legion Go. Here is a guide on what you should do to get the most out of your new device!
 
