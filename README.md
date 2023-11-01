@@ -12,7 +12,8 @@ A repository containing useful resources for the Lenovo Legion Go.
 ## Tips
 - Try to buy the Legion Go on a sale or using a discount code.
 - Create a new Lenovo account to receive a 10% discount code.
-- Use tools to debloat Windows (see below for more information).
+- Students get a 10% discount on the Lenovo Education store.
+- [Use tools to debloat Windows (click the link for more info).](GETTING-STARTED.md#chris-titus-techs-windows-utility)
 - You should be able to use 2230 SSD with an 2242 adapter on.
 
 ## Contributing
