@@ -1,9 +1,10 @@
 #### THIS PAGE IS UNDER CONSTRUCTION
 # Software
 ## Legion Space
-Currently, Lenovo doesn't show downloads for Legion Space on any pages.
+Currently, Lenovo doesn't show downloads for Legion Space on any pages. However, they do serve the files for each Legion Space version on an S3 container.
 
 ### Archive *[1]*
+*these all download from the official Lenovo Amazon S3 container*
 | Version | 
 |--------------|
 | [v1.0.0.0](https://s3.service.lenovo.com/legion/cms/v01.00.00.00/legionspace.exe) |
