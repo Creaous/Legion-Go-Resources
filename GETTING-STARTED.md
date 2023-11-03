@@ -13,3 +13,13 @@ The CTT Debloat tool is very useful, it is also open source and the code can be 
 
 1. Open Powershell as an Administrator
 2. Enter the following command: `irm christitus.com/win | iex`
+
+## Games not working in fullscreen?
+This is a common issue that is happening to many owners, this is due to the screen being portrait. To resolve this issue, some people have suggested to use [Magpie or DxWnd](SOFTWARE.md)
+
+## Updating Drivers *AND/OR* Unlocking AMD Adrenaline
+As of the 3rd of November 2023, Lenovo has not provided driver updates for the AMD chipset and is still running an update from July. Because of this, you may encounter problems while trying to start games like Starfield.
+
+| [![How To Install NEW Lenovo Legion GO Graphics Drivers](https://img.youtube.com/vi/ALtmBXpxA-M/0.jpg)](https://www.youtube.com/watch?v=ALtmBXpxA-M "How To Install NEW Lenovo Legion GO Graphics Drivers") |
+|--------------|-----------|------------|
+| [How To Install NEW Lenovo Legion GO Graphics Drivers](https://www.youtube.com/watch?v=ALtmBXpxA-M) |
