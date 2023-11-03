@@ -13,7 +13,6 @@ Currently, Lenovo doesn't show downloads for Legion Space on any pages.
 | [v1.0.0.4](https://s3.service.lenovo.com/legion/cms/v01.00.00.04/legionspace.exe) |
 | [v1.0.2.0](https://s3.service.lenovo.com/legion/cms/v01.00.02.00/legionspace.exe) |
 | [v1.0.2.1](https://s3.service.lenovo.com/legion/cms/v01.00.02.01/legionspace.exe) |
-| [v1.0.2.2](https://s3.service.lenovo.com/legion/cms/v01.00.02.02/legionspace.exe) |
 
 ## Playnite
 Playnite is an open source video game library manager with one simple goal: To provide a unified interface for all of your games.
