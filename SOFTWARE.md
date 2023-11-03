@@ -38,5 +38,5 @@ Window hooker to run fullscreen programs in window and much more...
 
 https://sourceforge.net/projects/dxwnd
 
-### Sources
+## Sources
 [1] - https://www.reddit.com/r/LegionGo/comments/17l3680/found_the_legion_space_installer
