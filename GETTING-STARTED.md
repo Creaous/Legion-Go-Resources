@@ -21,5 +21,5 @@ This is a common issue that is happening to many owners, this is due to the scre
 As of the 3rd of November 2023, Lenovo has not provided driver updates for the AMD chipset and is still running an update from July. Because of this, you may encounter problems while trying to start games like Starfield.
 
 | [![How To Install NEW Lenovo Legion GO Graphics Drivers](https://img.youtube.com/vi/ALtmBXpxA-M/0.jpg)](https://www.youtube.com/watch?v=ALtmBXpxA-M "How To Install NEW Lenovo Legion GO Graphics Drivers") |
-|--------------|-----------|------------|
+|--------------|
 | [How To Install NEW Lenovo Legion GO Graphics Drivers](https://www.youtube.com/watch?v=ALtmBXpxA-M) |
