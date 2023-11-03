@@ -9,6 +9,9 @@ A repository containing useful resources for the Lenovo Legion Go.
 - [Videos](VIDEOS.md)
 - [Documentation](DOCUMENTATION.md)
 
+## Here for the basics?
+I suggest that you first read our [Getting Started](GETTING-STARTED.md) guide and then go onto the [Software/Tools](SOFTWARE.md) section to view some useful software and tools that you might benefit from.
+
 ## Tips
 - Try to buy the Legion Go on a sale or using a discount code.
 - Create a new Lenovo account to receive a 10% discount code.
