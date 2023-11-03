@@ -24,6 +24,9 @@ EmuDeck takes care of everything. Emulator installation & configuration, bezels,
 
 https://www.emudeck.com/
 
+### Note
+While builds are available on their GitHub [here](https://github.com/EmuDeck/emudeck-electron-early/releases), I highly suggest that you subscribe to the [Patreon](https://www.patreon.com/join/dragoonDorise). The developers of this work hard on providing a good stable experience and you should support them.
+
 ## Magpie
 An all-purpose window upscaler for Windows 10/11.
 
@@ -33,9 +36,6 @@ https://github.com/Blinue/Magpie
 Window hooker to run fullscreen programs in window and much more...
 
 https://sourceforge.net/projects/dxwnd
-
-### Note
-While builds are available on their GitHub [here](https://github.com/EmuDeck/emudeck-electron-early/releases), I highly suggest that you subscribe to the [Patreon](https://www.patreon.com/join/dragoonDorise). The developers of this work hard on providing a good stable experience and you should support them.
 
 ### Sources
 [1] - https://www.reddit.com/r/LegionGo/comments/17l3680/found_the_legion_space_installer
