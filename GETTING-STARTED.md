@@ -59,18 +59,18 @@ Some users have reported that turning off Core isolation will give you a perform
 1. Search "Core isolation" in the search menu.
 2. Turn off "Memory integrity" and reboot.
 
-# Optimizing startup:
+## Optimizing startup:
 
 1. Search "Startup apps" in the search menu.
 2. Turn off any apps you don't want.
 
-# Setting OS power mode:
+## Setting OS power mode:
 
 1. Open Legion Space (by using the search bar or button).
 2. Go to "Settings" (optionally turn off Legion Space startup).
 3. Go to "Performance", set the "OS Power Mode" to "Efficiency".
 
-# Setting up Integer Scaling:
+## Setting up Integer Scaling:
 
 1. Visit [https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/MISC/Scaling.reg](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/MISC/Scaling.reg) in a browser.
 2. Press CTRL+S to save the file.
@@ -80,7 +80,7 @@ Some users have reported that turning off Core isolation will give you a perform
 6. Visit the "Display" under on the "Gaming" tab.
 7. Enable "GPU Scaling" and "Integer Scaling".
 
-# Installing AMD software:
+## Installing AMD software:
 
 1. Search for "AMD" in your search bar, if not installed, continue.
 2. Visit [https://apps.microsoft.com/detail/9NZ1BJQN6BHL](https://apps.microsoft.com/detail/9NZ1BJQN6BHL) in a browser.
@@ -91,7 +91,7 @@ Some users have reported that turning off Core isolation will give you a perform
 
 (do NOT visit the "Tuning" settings under "Performance" or you'll need to reflash the BIOS)
 
-# Making the audio louder:
+## Making the audio louder:
 
 1. Search for "Realtek Audio Console" and open it, if installed, skip to step 6
 2. Visit [https://apps.microsoft.com/detail/9P2B8MCSVPLN](https://apps.microsoft.com/detail/9P2B8MCSVPLN) in a browser.
