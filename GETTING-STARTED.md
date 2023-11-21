@@ -5,30 +5,30 @@ So you just got your brand new Lenovo Legion Go. Here is a guide on what you sho
 ## Need more internal storage?
 Read more about upgrading the internal SSD [here](GUIDES/UPGRADING-THE-SSD.md).
 
-## Skipping Microsoft account:
+## Skipping Microsoft account
 
 1. Go to the country selection screen but don't press Next
 2. Plug in a keyboard and press SHIFT+F10
 3. Type in ***OOBE\\BYPASSNRO*** and it'll reboot.
 
-## Updating Windows:
+## Updating Windows
 
 1. Search for "updates" in the search menu and open it.
 2. Tap/press "Check for updates" and install any updates.
 3. Reboot if asked and keep repeating until there are none.
 
-## Updating drivers (automatically):
+## Updating drivers (automatically)
 
 1. Visit [https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads) in a browser.
 2. Click/tap automatic update and install the Lenovo Service Bridge when prompted.
 3. Let it update your drivers.
 
-## Updating drivers (manually):
+## Updating drivers (manually)
 
 1. Visit [https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list) in a browser.
 2. Download all the driver exe files and install them.
 
-## Tweaks and setting update frequency:
+## Tweaks and setting update frequency
 
 1. Open a Powershell prompt as an Administrator.
 2. Type in "irm [christitus.com/win](https://christitus.com/win) | iex"
@@ -38,7 +38,7 @@ Read more about upgrading the internal SSD [here](GUIDES/UPGRADING-THE-SSD.md).
 
 *(optional) you can set up automatic login if you want*
 
-## Changing VRAM:
+## Changing VRAM
 
 1. Shut down your Legion Go in Windows.
 2. Hold down the Volume Up button.
@@ -52,25 +52,25 @@ Read more about upgrading the internal SSD [here](GUIDES/UPGRADING-THE-SSD.md).
 
 *(note: there is a beta bios that enables the 6gb vram option, however I suggest you wait for the official release and then change it later)*
 
-## Turning off Core Isolation:
+## Turning off Core Isolation
 
 Some users have reported that turning off Core isolation will give you a performance gain. This will lower your security, but for a device meant for gaming, it should be fine.
 
 1. Search "Core isolation" in the search menu.
 2. Turn off "Memory integrity" and reboot.
 
-## Optimizing startup:
+## Optimizing startup
 
 1. Search "Startup apps" in the search menu.
 2. Turn off any apps you don't want.
 
-## Setting OS power mode:
+## Setting OS power mode
 
 1. Open Legion Space (by using the search bar or button).
 2. Go to "Settings" (optionally turn off Legion Space startup).
 3. Go to "Performance", set the "OS Power Mode" to "Efficiency".
 
-## Setting up Integer Scaling:
+## Setting up Integer Scaling
 
 1. Visit [https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/MISC/Scaling.reg](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/MISC/Scaling.reg) in a browser.
 2. Press CTRL+S to save the file.
@@ -80,7 +80,7 @@ Some users have reported that turning off Core isolation will give you a perform
 6. Visit the "Display" under on the "Gaming" tab.
 7. Enable "GPU Scaling" and "Integer Scaling".
 
-## Installing AMD software:
+## Installing AMD software
 
 1. Search for "AMD" in your search bar, if not installed, continue.
 2. Visit [https://apps.microsoft.com/detail/9NZ1BJQN6BHL](https://apps.microsoft.com/detail/9NZ1BJQN6BHL) in a browser.
@@ -91,7 +91,7 @@ Some users have reported that turning off Core isolation will give you a perform
 
 (do NOT visit the "Tuning" settings under "Performance" or you'll need to reflash the BIOS)
 
-## Making the audio louder:
+## Making the audio louder
 
 1. Search for "Realtek Audio Console" and open it, if installed, skip to step 6
 2. Visit [https://apps.microsoft.com/detail/9P2B8MCSVPLN](https://apps.microsoft.com/detail/9P2B8MCSVPLN) in a browser.
