@@ -22,13 +22,24 @@ Playnite is an open source video game library manager with one simple goal: To p
 
 https://playnite.link/
 
+## RETROBAT (Emulation)
+RetroBat is a software distribution designed for emulation and to be the easiest way to enjoy your game collection on your Windows computer.
+
+https://www.retrobat.org/
+
+##### (suggested in [#1](https://github.com/Creaous/Legion-Go-Resources/issues/1))
+
 ## EmuDeck (Emulation)
 EmuDeck takes care of everything. Emulator installation & configuration, bezels, hotkeys, performance fixes and more.
 
 https://www.emudeck.com/
 
-### Note
-While builds are available on their GitHub [here](https://github.com/EmuDeck/emudeck-electron-early/releases), I highly suggest that you subscribe to the [Patreon](https://www.patreon.com/join/dragoonDorise). The developers of this work hard on providing a good stable experience and you should support them.
+## ControMyJoystick
+Use your voice, joystick, smartphone or optional 3Dconnexion controller to send commands to your game as joystick, keyboard and mouse input. No programming knowledge required!
+
+https://tetherscript.com/controlmyjoystick-download/
+
+##### (suggested in [#1](https://github.com/Creaous/Legion-Go-Resources/issues/1))
 
 ## Magpie
 An all-purpose window upscaler for Windows 10/11.
