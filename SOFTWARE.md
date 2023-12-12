@@ -22,6 +22,11 @@ Playnite is an open source video game library manager with one simple goal: To p
 
 https://playnite.link/
 
+## Lenovo Driver Manager
+Lenovo Driver Manager is a program intended to help support people in downloading Lenovo drivers easily.
+
+https://github.com/Creaous/LenovoDriverManager/releases/latest
+
 ## RETROBAT (Emulation)
 RetroBat is a software distribution designed for emulation and to be the easiest way to enjoy your game collection on your Windows computer.
 
