@@ -34,7 +34,7 @@ EmuDeck takes care of everything. Emulator installation & configuration, bezels,
 
 https://www.emudeck.com/
 
-## ControMyJoystick
+## ControlMyJoystick
 Use your voice, joystick, smartphone or optional 3Dconnexion controller to send commands to your game as joystick, keyboard and mouse input. No programming knowledge required!
 
 https://tetherscript.com/controlmyjoystick-download/
@@ -45,6 +45,8 @@ https://tetherscript.com/controlmyjoystick-download/
 Free open-source software to boost sound quality, volume, and bass. Including an equalizer, effects, and presets for customized audio.
 
 https://www.fxsound.com/
+
+##### (suggested in [#1](https://github.com/Creaous/Legion-Go-Resources/issues/1))
 
 ## Magpie
 An all-purpose window upscaler for Windows 10/11.
