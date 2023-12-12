@@ -41,6 +41,11 @@ https://tetherscript.com/controlmyjoystick-download/
 
 ##### (suggested in [#1](https://github.com/Creaous/Legion-Go-Resources/issues/1))
 
+## FxSound
+Free open-source software to boost sound quality, volume, and bass. Including an equalizer, effects, and presets for customized audio.
+
+https://www.fxsound.com/
+
 ## Magpie
 An all-purpose window upscaler for Windows 10/11.
 
