@@ -28,6 +28,14 @@ Read more about upgrading the internal SSD [here](GUIDES/UPGRADING-THE-SSD.md).
 1. Visit [https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list) in a browser.
 2. Download all the driver exe files and install them.
 
+### Alternative Method
+
+1. Visit [https://github.com/Creaous/LenovoDriverManager/releases/latest](https://github.com/Creaous/LenovoDriverManager/releases/latest) in a browser.
+2. Download the respective exe and run it.
+3. Enter your serial number or `laptops-and-netbooks/legion-series/legion-go-8apu1`.
+4. Click `Select Suggested` and then `Download`.
+5. Open all of them and follow the installation.
+
 ## Tweaks and setting update frequency
 
 1. Open a Powershell prompt as an Administrator.
