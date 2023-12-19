@@ -1,0 +1,8 @@
+[Unit]
+Description=Fixes permissions issue caused by Windows
+
+[Service]
+ExecStart=/fix-permissions.sh
+
+[Install]
+WantedBy=multi-user.target
