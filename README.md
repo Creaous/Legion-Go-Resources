@@ -1,4 +1,3 @@
-#### NOTE: I do not currently own a Legion Go, all resources here are from the community.
 # Lenovo Legion Go Resources
 A repository containing useful resources for the Lenovo Legion Go.
 
