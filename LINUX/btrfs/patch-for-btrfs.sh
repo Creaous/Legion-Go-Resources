@@ -11,7 +11,7 @@ download_and_apply_patch() {
 
     if [ $? -eq 0 ]; then
         echo "Applying patch to ${target_file}"
-        patch -u ${target_file} -i ${patch_filename}
+        patch -b -u ${target_file} -i ${patch_filename}
         rm "${patch_filename}"
     else
         echo "Failed to download patch: ${patch_filename}"
