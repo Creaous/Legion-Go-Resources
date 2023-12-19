@@ -37,8 +37,16 @@ Lenovo provides NO warranty for Linux on the Legion Go. They don't guarantee tha
 ## Btrfs for SD Cards
 There's a project by Philipp Richter which does this already, you can find it [here](https://gitlab.com/popsulfr/steamos-btrfs). However, I was unable to use it since I don't use an Arch based system on the Legion Go (only on my desktop). To fix this, I created a script that grabs the patches from the above Gitlab repository and then applies them manually. This should work on all kinds of operating systems as long as they have `wget` and `patch` installed.
 
+```bash
+curl -sSL https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/LINUX/btrfs/patch-for-btrfs.sh | sudo bash
+```
+
 ## Permissions breaking
 After booting into Windows and then back into Steam OS, permissions get messed up due to Windows taking priority over the permissions. To combat this, I have created a script and systemd service that reverts the permissions back to 755 and gives the current user (default: deck) full permissions to the files and directories.
+
+```bash
+curl -sSL https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/LINUX/perms/fix-permissions.sh | sudo bash
+```
 
 ## Credit
 Most resources are from [here](https://github.com/aarron-lee/legion-go-tricks) or were adapted from [here](https://github.com/aarron-lee/legion-go-tricks).
