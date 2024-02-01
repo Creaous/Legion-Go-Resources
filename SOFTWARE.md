@@ -5,6 +5,7 @@ Currently, Lenovo doesn't show downloads for Legion Space on any pages. However,
 
 ### Archive *[1]*
 *these all download from the official Lenovo Amazon S3 container*
+*update as of 1/02/2024: lenovo has changed the way to download legion space - the new format is YY.DD.MM.??*
 | Version | 
 |--------------|
 | [v1.0.0.0](https://s3.service.lenovo.com/legion/cms/v01.00.00.00/legionspace.exe) |
@@ -18,6 +19,8 @@ Currently, Lenovo doesn't show downloads for Legion Space on any pages. However,
 | [v1.0.2.3](https://s3.service.lenovo.com/legion/cms/v01.00.02.03/legionspace.exe) |
 | v1.0.2.4 |
 | [v1.0.2.5](https://s3.service.lenovo.com/legion/cms/v01.00.02.05/legionspace.exe) |
+| v1.0.2.6 |
+| [v1.0.2.7](https://s3.service.lenovo.com/legion/cms/v24.01.31.01/legionspace.exe) |
 
 ## Playnite
 Playnite is an open source video game library manager with one simple goal: To provide a unified interface for all of your games.
