@@ -1,12 +1,13 @@
-#### THIS PAGE IS UNDER CONSTRUCTION
 # Upgrading the SSD
 Ensure that the SSD that you purchase is a 2242, if not then you'll have to use an adapter from 2230 to 2242. The SSD must be NVMe and not a SATA one, it is suggested to make sure the SSD is PCIe 4.0 for best performance.
 
 **DO NOT ATTEMPT TO USE A 2280, IT IS TOO BIG FOR THE LEGION GO**
 <br/>
-*(as someone on the subreddit pointed out, it is possible to install a 2280, however, it is highly discouraged due to the risks (overheating).)*
+*as someone on the subreddit pointed out, it is possible to install a 2280, however, it is highly discouraged due to the risks (overheating).*
 
 ## Instructions
+
+### Taking apart device
 https://youtu.be/KBrbSwGOfS4
 1. Take out the 6 screws on the back of the Go.
 2. Carefully pry up on the back of the device.

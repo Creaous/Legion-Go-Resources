@@ -1,10 +1,14 @@
-#### THIS PAGE IS UNDER CONSTRUCTION
 # Software
 ## Legion Space
-Currently, Lenovo doesn't show downloads for Legion Space on any pages. However, they do serve the files for each Legion Space version on an S3 container.
+Lenovo serves the download for Legion Space on the [drivers list](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list/component?name=Software+and+Utilities&id=156BE23F-B536-4320-B35C-2F67EBDD9242), however, it is most likely out of date.
 
-### Archive *[1]*
+### S3 Container *[1]*
 *these all download from the official Lenovo Amazon S3 container*
+<br/>
+*update as of 1/02/2024: lenovo has changed the way to download legion space - the new format is YY.DD.MM.??*
+<br/>
+*if an update isn't clickable here, Lenovo has most likely deleted it from the S3 container.*
+
 | Version | 
 |--------------|
 | [v1.0.0.0](https://s3.service.lenovo.com/legion/cms/v01.00.00.00/legionspace.exe) |
@@ -13,11 +17,32 @@ Currently, Lenovo doesn't show downloads for Legion Space on any pages. However,
 | [v1.0.0.3](https://s3.service.lenovo.com/legion/cms/v01.00.00.03/legionspace.exe) |
 | [v1.0.0.4](https://s3.service.lenovo.com/legion/cms/v01.00.00.04/legionspace.exe) |
 | [v1.0.2.0](https://s3.service.lenovo.com/legion/cms/v01.00.02.00/legionspace.exe) |
-| [v1.0.2.1](https://s3.service.lenovo.com/legion/cms/v01.00.02.01/legionspace.exe) |
-| [v1.0.2.2](https://s3.service.lenovo.com/legion/cms/v01.00.02.02/legionspace.exe) |
-| [v1.0.2.3](https://s3.service.lenovo.com/legion/cms/v01.00.02.03/legionspace.exe) |
-| v1.0.2.4 |
+| v1.0.2.1 |
+| v1.0.2.2 |
+| v1.0.2.3 |
+| v1.0.2.4 *beta* |
 | [v1.0.2.5](https://s3.service.lenovo.com/legion/cms/v01.00.02.05/legionspace.exe) |
+| v1.0.2.6 *beta* |
+| [v1.0.2.7](https://s3.service.lenovo.com/legion/cms/v24.01.31.01/legionspace.exe) |
+
+### Archive
+*if anyone has Legion Space v1.0.2.4 or v1.0.2.6 (they were betas), please create a pull request - only files with Lenovo's digital signature will be merged*
+
+| Version | 
+|--------------|
+| [v1.0.0.0](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.0.exe) |
+| [v1.0.0.1](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.1.exe) |
+| [v1.0.0.2](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.2.exe) |
+| [v1.0.0.3](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.3.exe) |
+| [v1.0.0.4](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.4.exe) |
+| [v1.0.2.0](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.0.exe) |
+| [v1.0.2.1](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.1.exe) |
+| [v1.0.2.2](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.2.exe) |
+| [v1.0.2.3](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.3.exe) |
+| v1.0.2.4 *beta* |
+| [v1.0.2.5](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.5.exe) |
+| v1.0.2.6 *beta* |
+| [v1.0.2.7](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.7.exe) |
 
 ## Playnite
 Playnite is an open source video game library manager with one simple goal: To provide a unified interface for all of your games.
@@ -42,7 +67,7 @@ EmuDeck takes care of everything. Emulator installation & configuration, bezels,
 https://www.emudeck.com/
 
 ## ControlMyJoystick
-Use your voice, joystick, smartphone or optional 3Dconnexion controller to send commands to your game as joystick, keyboard and mouse input. No programming knowledge required!
+Use your voice, joystick, smartphone or optional 3Dconnexion controller to send commands to your game as joystick, keyboard and mouse input.
 
 https://tetherscript.com/controlmyjoystick-download/
 

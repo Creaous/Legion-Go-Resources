@@ -1,8 +1,8 @@
-#### THIS PAGE IS UNDER CONSTRUCTION
 # Getting Started
 So you just got your brand new Lenovo Legion Go. Here is a guide on what you should do to get the most out of your new device!
 
 ## Need more internal storage?
+
 Read more about upgrading the internal SSD [here](GUIDES/UPGRADING-THE-SSD.md).
 
 ## Skipping Microsoft account
@@ -11,30 +11,9 @@ Read more about upgrading the internal SSD [here](GUIDES/UPGRADING-THE-SSD.md).
 2. Plug in a keyboard and press SHIFT+F10
 3. Type in ***OOBE\\BYPASSNRO*** and it'll reboot.
 
-## Updating Windows
+## Updating drivers
 
-1. Search for "updates" in the search menu and open it.
-2. Tap/press "Check for updates" and install any updates.
-3. Reboot if asked and keep repeating until there are none.
-
-## Updating drivers (automatically)
-
-1. Visit [https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads) in a browser.
-2. Click/tap automatic update and install the Lenovo Service Bridge when prompted.
-3. Let it update your drivers.
-
-## Updating drivers (manually)
-
-1. Visit [https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list) in a browser.
-2. Download all the driver exe files and install them.
-
-### Alternative Method (unofficial but uses official servers)
-
-1. Visit [https://github.com/Creaous/LenovoDriverManager/releases/latest](https://github.com/Creaous/LenovoDriverManager/releases/latest) in a browser.
-2. Download the respective exe and run it.
-3. Enter your serial number or `laptops-and-netbooks/legion-series/legion-go-8apu1`.
-4. Click `Select Suggested` and then `Download`.
-5. Open all of them and follow the installation.
+As of Legion Space v1.0.2.7, Lenovo has added the ability to update drivers within Legion Space. You can download Legion Space using the official servers [here](/SOFTWARE.md) (see S3 container section) or [here](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list/component?name=Software+and+Utilities&id=156BE23F-B536-4320-B35C-2F67EBDD9242), the second link is most likely outdated and as of writing is v1.0.2.5. If you wish to follow the old guide, you can visit it [here](/MISC/UPDATES.md).
 
 ## Tweaks and setting update frequency
 
@@ -57,8 +36,6 @@ Read more about upgrading the internal SSD [here](GUIDES/UPGRADING-THE-SSD.md).
 7. Select UMA Frame Buffer Size.
 8. Set it to the amount of VRAM you want.
 9. Tap "Exit" and "Exit Saving Changes".
-
-*(note: there is a beta bios that enables the 6gb vram option, however I suggest you wait for the official release and then change it later)*
 
 ## Turning off Core Isolation
 
@@ -87,6 +64,8 @@ Some users have reported that turning off Core isolation will give you a perform
 5. Follow the AMD software guide below.
 6. Visit the "Display" under on the "Gaming" tab.
 7. Enable "GPU Scaling" and "Integer Scaling".
+
+You can undo that by following 1-3 but use [this](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/MISC/Scaling-Undo.reg) instead of Scaling.reg.
 
 ## Installing AMD software
 

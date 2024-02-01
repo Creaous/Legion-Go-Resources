@@ -1,4 +1,3 @@
-#### THIS PAGE IS UNDER CONSTRUCTION
 # Videos
 ## Pre-release
 | [![Lenovo Legion Go – Official Launch Trailer](https://img.youtube.com/vi/BLD-dg1C_XU/0.jpg)](https://www.youtube.com/watch?v=BLD-dg1C_XU "Lenovo Legion Go – Official Launch Trailer") | [![I tested it EARLY... (it's massive) - Lenovo Legion Go Hands-On Preview](https://img.youtube.com/vi/OO_WqQ4ZRTw/0.jpg)](https://www.youtube.com/watch?v=OO_WqQ4ZRTw "I tested it EARLY... (it's massive) - Lenovo Legion Go Hands-On Preview") | [![Lenovo Legion Go - OMG THIS IS SO COOL](https://img.youtube.com/vi/hql6doE-Ccw/0.jpg)](https://www.youtube.com/watch?v=hql6doE-Ccw "Lenovo Legion Go - OMG THIS IS SO COOL") |
