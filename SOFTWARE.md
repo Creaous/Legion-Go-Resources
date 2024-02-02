@@ -4,11 +4,6 @@ Lenovo serves the download for Legion Space on the [drivers list](https://pcsupp
 
 ### S3 Container *[1]*
 *these all download from the official Lenovo Amazon S3 container*
-<br/>
-*update as of 1/02/2024: lenovo has changed the way to download legion space - the new format is YY.DD.MM.??*
-<br/>
-*if an update isn't clickable here, Lenovo has most likely deleted it from the S3 container.*
-
 | Version | 
 |--------------|
 | [v1.0.0.0](https://s3.service.lenovo.com/legion/cms/v01.00.00.00/legionspace.exe) |
@@ -22,27 +17,6 @@ Lenovo serves the download for Legion Space on the [drivers list](https://pcsupp
 | v1.0.2.3 |
 | v1.0.2.4 *beta* |
 | [v1.0.2.5](https://s3.service.lenovo.com/legion/cms/v01.00.02.05/legionspace.exe) |
-| v1.0.2.6 *beta* |
-| [v1.0.2.7](https://s3.service.lenovo.com/legion/cms/v24.01.31.01/legionspace.exe) |
-
-### Archive
-*if anyone has Legion Space v1.0.2.4 or v1.0.2.6 (they were betas), please create a pull request - only files with Lenovo's digital signature will be merged*
-
-| Version | 
-|--------------|
-| [v1.0.0.0](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.0.exe) |
-| [v1.0.0.1](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.1.exe) |
-| [v1.0.0.2](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.2.exe) |
-| [v1.0.0.3](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.3.exe) |
-| [v1.0.0.4](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.4.exe) |
-| [v1.0.2.0](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.0.exe) |
-| [v1.0.2.1](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.1.exe) |
-| [v1.0.2.2](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.2.exe) |
-| [v1.0.2.3](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.3.exe) |
-| v1.0.2.4 *beta* |
-| [v1.0.2.5](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.5.exe) |
-| v1.0.2.6 *beta* |
-| [v1.0.2.7](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.7.exe) |
 
 ## Playnite
 Playnite is an open source video game library manager with one simple goal: To provide a unified interface for all of your games.
