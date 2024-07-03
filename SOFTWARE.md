@@ -24,6 +24,10 @@ Lenovo serves the download for Legion Space on the [drivers list](https://pcsupp
 | [v1.0.2.5](https://s3.service.lenovo.com/legion/cms/v01.00.02.05/legionspace.exe) |
 | v1.0.2.6 *beta* |
 | [v1.0.2.7](https://s3.service.lenovo.com/legion/cms/v24.01.31.01/legionspace.exe) |
+| v1.0.2.8 |
+| [v1.0.2.9](https://s3.service.lenovo.com/legion/cms/v24.04.09.01/legionspace.exe) |
+| v1.0.2.10 |
+| [v1.0.2.11](https://s3.service.lenovo.com/legion/cms/v24.06.26.01/legionspace.exe) |
 
 ### Archive
 *if anyone has Legion Space v1.0.2.4 or v1.0.2.6 (they were betas), please create a pull request - only files with Lenovo's digital signature will be merged*
@@ -43,6 +47,10 @@ Lenovo serves the download for Legion Space on the [drivers list](https://pcsupp
 | [v1.0.2.5](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.5.exe) |
 | v1.0.2.6 *beta* |
 | [v1.0.2.7](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.7.exe) |
+| v1.0.2.8 |
+| v1.0.2.9 |
+| v1.0.2.10 |
+| v1.0.2.11 |
 
 ## Playnite
 Playnite is an open source video game library manager with one simple goal: To provide a unified interface for all of your games.
