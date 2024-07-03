@@ -1,4 +1,5 @@
 # Getting Started
+
 So you just got your brand new Lenovo Legion Go. Here is a guide on what you should do to get the most out of your new device!
 
 ## Need more internal storage?
@@ -9,7 +10,7 @@ Read more about upgrading the internal SSD [here](GUIDES/UPGRADING-THE-SSD.md).
 
 1. Go to the country selection screen but don't press Next
 2. Plug in a keyboard and press SHIFT+F10
-3. Type in ***OOBE\\BYPASSNRO*** and it'll reboot.
+3. Type in **_OOBE\\BYPASSNRO_** and it'll reboot.
 
 ## Updating drivers
 
@@ -23,7 +24,7 @@ As of Legion Space v1.0.2.7, Lenovo has added the ability to update drivers with
 4. Apply the tweaks then visit the Updates page.
 5. Set the update frequency to "Security".
 
-*(optional) you can set up automatic login if you want*
+_(optional) you can set up automatic login if you want_
 
 ## Changing VRAM
 
