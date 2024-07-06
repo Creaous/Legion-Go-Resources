@@ -54,9 +54,7 @@ _if anyone has Legion Space v1.0.2.4 or v1.0.2.6 (they were betas), please send 
 | [v1.0.2.9](https://archive.creaous.net/lenovo/legion-space/v1.0.2.9/legionspace.exe)   |
 | [v1.1.2.11](https://archive.creaous.net/lenovo/legion-space/v1.1.2.11/legionspace.exe) |
 
-#### Check if they are signed
-
-You can check if the files are signed by going to the properties of the file and checking the digital signature.
+**You can check if they are signed by going to Properties > Digital Signatures. If they are not signed by Lenovo, do NOT install them.**
 
 ## Playnite
 
