@@ -33,26 +33,30 @@ _if an update isn't clickable here, Lenovo has most likely deleted it from the S
 
 ### Archive
 
-_if anyone has Legion Space v1.0.2.4 or v1.0.2.6 (they were betas), please send them to me - only files with Lenovo's digital signature will be merged_
+_if anyone has Legion Space v1.0.2.4 or v1.0.2.6 (they were betas), please send them to me - only files with Lenovo's digital signature will be uploaded_
 
-| Version                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| [v1.0.0.0](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.0.exe) |
-| [v1.0.0.1](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.1.exe) |
-| [v1.0.0.2](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.2.exe) |
-| [v1.0.0.3](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.3.exe) |
-| [v1.0.0.4](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.0.4.exe) |
-| [v1.0.2.0](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.0.exe) |
-| [v1.0.2.1](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.1.exe) |
-| [v1.0.2.2](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.2.exe) |
-| [v1.0.2.3](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.3.exe) |
-| v1.0.2.4 _beta_                                                                                                             |
-| [v1.0.2.5](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.5.exe) |
-| v1.0.2.6 _beta_                                                                                                             |
-| [v1.0.2.7](https://raw.githubusercontent.com/Creaous/Legion-Go-Resources/main/ARCHIVE/LegionSpace/legionspace-v1.0.2.7.exe) |
-| v1.0.2.8                                                                                                                    |
-| v1.0.2.9                                                                                                                    |
-| v1.1.2.11                                                                                                                   |
+| Version                                                                                |
+| -------------------------------------------------------------------------------------- |
+| [v1.0.0.0](https://archive.creaous.net/lenovo/legion-space/v1.0.0.0/legionspace.exe)   |
+| [v1.0.0.1](https://archive.creaous.net/lenovo/legion-space/v1.0.0.1/legionspace.exe)   |
+| [v1.0.0.2](https://archive.creaous.net/lenovo/legion-space/v1.0.0.2/legionspace.exe)   |
+| [v1.0.0.3](https://archive.creaous.net/lenovo/legion-space/v1.0.0.3/legionspace.exe)   |
+| [v1.0.0.4](https://archive.creaous.net/lenovo/legion-space/v1.0.0.4/legionspace.exe)   |
+| [v1.0.2.0](https://archive.creaous.net/lenovo/legion-space/v1.0.2.0/legionspace.exe)   |
+| [v1.0.2.1](https://archive.creaous.net/lenovo/legion-space/v1.0.2.1/legionspace.exe)   |
+| [v1.0.2.2](https://archive.creaous.net/lenovo/legion-space/v1.0.2.2/legionspace.exe)   |
+| [v1.0.2.3](https://archive.creaous.net/lenovo/legion-space/v1.0.2.3/legionspace.exe)   |
+| v1.0.2.4 _beta_                                                                        |
+| [v1.0.2.5](https://archive.creaous.net/lenovo/legion-space/v1.0.2.5/legionspace.exe)   |
+| v1.0.2.6 _beta_                                                                        |
+| [v1.0.2.7](https://archive.creaous.net/lenovo/legion-space/v1.0.2.7/legionspace.exe)   |
+| v1.0.2.8                                                                               |
+| [v1.0.2.9](https://archive.creaous.net/lenovo/legion-space/v1.0.2.9/legionspace.exe)   |
+| [v1.1.2.11](https://archive.creaous.net/lenovo/legion-space/v1.1.2.11/legionspace.exe) |
+
+#### Check if they are signed
+
+You can check if the files are signed by going to the properties of the file and checking the digital signature.
 
 ## Playnite
 
