@@ -38,7 +38,7 @@ There aren't really any guidelines for issues, however, try to ensure that your 
 - Clearly describe changes you made.
 - Changes to the Archive folder:
   - The change is first-party:
-    - Must be signed with Lenovo's digitial signature.
+    - Must be signed with Lenovo's digital signature.
   - The change is third-party:
     - Must include a README markdown file with details.
   - Include VirusTotal scans in the PR description.

@@ -30,6 +30,8 @@ _if an update isn't clickable here, Lenovo has most likely deleted it from the S
 | v1.0.2.8                                                                           |
 | [v1.0.2.9](https://s3.service.lenovo.com/legion/cms/v24.04.09.01/legionspace.exe)  |
 | [v1.1.2.11](https://s3.service.lenovo.com/legion/cms/v24.06.26.01/legionspace.exe) |
+| [v1.1.2.12](https://s3.service.lenovo.com/legion/cms/v24.08.09.01/legionspace.exe) |
+| [v1.1.2.14](https://s3.service.lenovo.com/legion/cms/v24.08.29.01/legionspace.exe) |
 
 ### Archive
 
@@ -53,6 +55,8 @@ _if anyone has Legion Space v1.0.2.4 or v1.0.2.6 (they were betas), please send 
 | v1.0.2.8                                                                               |
 | [v1.0.2.9](https://archive.creaous.net/lenovo/legion-space/v1.0.2.9/legionspace.exe)   |
 | [v1.1.2.11](https://archive.creaous.net/lenovo/legion-space/v1.1.2.11/legionspace.exe) |
+| [v1.1.2.12](https://archive.creaous.net/lenovo/legion-space/v1.1.2.12/legionspace.exe) |
+| [v1.1.2.14](https://archive.creaous.net/lenovo/legion-space/v1.1.2.14/legionspace.exe) |
 
 **You can check if they are signed by going to Properties > Digital Signatures. If they are not signed by Lenovo, do NOT install them.**
 
