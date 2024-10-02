@@ -1,3 +1,6 @@
-# not paying for git lfs lol
+# Don't want to pay for Git LFS storage.
+*.exe
 ARCHIVE/
-MISC/SCRIPTS/
+
+# Don't want to track the output of the scraper.
+MISC/SCRIPTS/legionspace_output.txt
