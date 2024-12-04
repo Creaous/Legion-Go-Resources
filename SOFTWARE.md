@@ -8,7 +8,7 @@ Lenovo serves the download for Legion Space on the [drivers list](https://pcsupp
 
 _these all download from the official Lenovo Amazon S3 container_
 <br/>
-_update as of 1/02/2024: lenovo has changed the way to download legion space - the new format is YY.DD.MM.??_
+_update as of 01/02/2024: lenovo has changed the way to download legion space - the new format is YY.DD.MM.??_
 <br/>
 _if an update isn't clickable here, Lenovo has most likely deleted it from the S3 container._
 
@@ -32,6 +32,7 @@ _if an update isn't clickable here, Lenovo has most likely deleted it from the S
 | [v1.1.2.11](https://s3.service.lenovo.com/legion/cms/v24.06.26.01/legionspace.exe) |
 | [v1.1.2.12](https://s3.service.lenovo.com/legion/cms/v24.08.09.01/legionspace.exe) |
 | [v1.1.2.14](https://s3.service.lenovo.com/legion/cms/v24.08.29.01/legionspace.exe) |
+| [v1.1.3.3](https://s3.service.lenovo.com/legion/cms/v24.09.25.01/legionspace.exe)  |
 
 ### Archive
 
@@ -57,6 +58,7 @@ _if anyone has Legion Space v1.0.2.4 or v1.0.2.6 (they were betas), please send 
 | [v1.1.2.11](https://archive.creaous.net/lenovo/legion-space/v1.1.2.11/legionspace.exe) |
 | [v1.1.2.12](https://archive.creaous.net/lenovo/legion-space/v1.1.2.12/legionspace.exe) |
 | [v1.1.2.14](https://archive.creaous.net/lenovo/legion-space/v1.1.2.14/legionspace.exe) |
+| [v1.1.3.3](https://archive.creaous.net/lenovo/legion-space/v1.1.3.3/legionspace.exe)   |
 
 **You can check if they are signed by going to Properties > Digital Signatures. If they are not signed by Lenovo, do NOT install them.**
 
